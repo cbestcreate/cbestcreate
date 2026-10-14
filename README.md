@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World!
+
+My current goal is to make my career change into the tech field from working trades and building swimming pools. I'm here to create projects along my journey and share my progress as I go
+
+Currently learning the github basics, Beginning Cisco courses, and learning skills on TryHackMe
 
 <!--
 **cbestcreate/cbestcreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
